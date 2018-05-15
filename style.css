@@ -14,4 +14,66 @@ main{
     height: 1024px;
     margin: auto;
     background-image: url('original.jpg');
+    display: grid;
+    grid-template: 256px 256px 256px 256px / 281px 281px 281px;
+}
+main :nth-child(1){
+    transform: rotate(-90deg);
+    position:  relative;
+    top: 28px;
+    left: -27px;
+}
+main :nth-child(2){
+    position:  relative;
+    left: -74px;
+}
+main :nth-child(3){
+    position:  relative;
+    left: -9px;
+}
+main :nth-child(4){
+    position:  relative;
+    top: 10px;
+}
+main :nth-child(5){
+    position:  relative;
+    top: -64px;
+    left: 7px;
+}
+main :nth-child(6){
+    position:  relative;
+    top: -60px;
+    left: -10px;
+}
+main :nth-child(7){
+    position:  relative;
+    top: 8px;
+}
+main :nth-child(8){
+    transform: rotate(90deg);
+    position:  relative;
+    top: -22px;
+    left: -87px;
+}
+main :nth-child(9){
+    transform: rotate(180deg);
+    position:  relative;
+    top: -44px;
+    left: -86px;
+}
+main :nth-child(10){
+    position:  relative;
+    top: 31px;
+}
+main :nth-child(11){
+    transform: rotate(-90deg);
+    position:  relative;
+    top: -36px;
+    left: 60px;
+}
+main :nth-child(12){
+    transform: rotate(-90deg);
+    position:  relative;
+    top: -45px;
+    left: -18px;
 }
