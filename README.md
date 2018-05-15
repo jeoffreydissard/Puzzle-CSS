@@ -1,3 +1,5 @@
+[PREVIEW](https://github.com/jeoffreydissard/Puzzle-CSS/blob/master/index.html)
+
 ![Puzzle](https://i.gifer.com/77zu.gif)
 
 # puzzle-css
