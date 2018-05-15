@@ -1,4 +1,4 @@
-[PREVIEW](https://github.com/jeoffreydissard/Puzzle-CSS/blob/master/index.html)
+[PREVIEW](https://github.com/jeoffreydissard/Puzzle-CSS/blob/master/index.htmlhttps://htmlpreview.github.io/?https://github.com/jeoffreydissard/Puzzle-CSS/blob/master/index.html)
 
 ![Puzzle](https://i.gifer.com/77zu.gif)
 
